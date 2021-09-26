@@ -14,8 +14,8 @@ h2 {
     to {color:rgb(72, 6, 78);}
 }
 .topnav a {
-  float: left;
-  display: inline;
+  
+  display: block;
   color: purple;
   text-align: center;
   padding: 14px 16px;
