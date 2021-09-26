@@ -15,7 +15,7 @@ h2 {
 }
 .topnav a {
   float: left;
-  display: block;
+  display: inline;
   color: purple;
   text-align: center;
   padding: 14px 16px;
@@ -31,7 +31,7 @@ h2 {
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #04AA6D;
+  background-color: #3c1361;
   color: white;
 }
 
