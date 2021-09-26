@@ -13,8 +13,11 @@ h2 {
     from {color:pink;}
     to {color:rgb(72, 6, 78);}
 }
+.topnav{
+    display: block;
+}
+
 .topnav a {
-  
   display: block;
   color: purple;
   text-align: center;
