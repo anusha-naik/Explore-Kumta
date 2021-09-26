@@ -13,9 +13,7 @@ h2 {
     from {color:pink;}
     to {color:rgb(72, 6, 78);}
 }
-.topnav{
-    display: block;
-}
+
 
 .topnav a {
   float: left;
