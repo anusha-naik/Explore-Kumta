@@ -17,7 +17,7 @@ h2 {
 
 .topnav a {
   float: left;
-  display: block;
+  display: inline;
   color: purple;
   text-align: center;
   padding: 14px 16px;
